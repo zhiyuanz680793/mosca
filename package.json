@@ -95,7 +95,7 @@
     "st": "^1.1.0",
     "steed": "^1.0.0",
     "uuid": "^2.0.1",
-    "websocket-stream": "~3.1.0"
+    "websocket-stream": "~3.3.3"
   },
   "optionalDependencies": {
     "leveldown": "~1.4.3",
